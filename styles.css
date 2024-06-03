@@ -6,7 +6,7 @@ body {
     }
 .container {
     max-width: 230px; height: 370px;
-    padding-top: 14px; padding-bottom: 14px;
+    padding-top: 14px; padding-bottom: 50px;
     background-color: white; margin: auto;
     border-radius: 10px; margin-top: 70px;
 }
@@ -23,7 +23,6 @@ h4 {padding-left: 28px; padding-right: 15px;
 p {
     text-align: center; font-size: smaller;
     padding-left: 22px; padding-right: 17px;
-    padding-bottom: 10px;
 }
 @media (min-width: 601px) {
     img {max-height: 150px; width: 150px;}
